@@ -1,0 +1,12 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  background-image: linear-gradient(120deg, #3a7bd5 0%, #00d2ff 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 110%;
+  transition: background-size 0.25s ease-in;
+}
